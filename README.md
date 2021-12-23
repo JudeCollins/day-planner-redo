@@ -1,4 +1,6 @@
 # day-planner-redo!
+ https://judecollins.github.io/day-planner-redo/
+
 Basic day planner app that loops through the hours of 10am - 5pm for a specific date, today. The app uses moment.js to handle time. The app allows the user to enter and save text into any description field that has a class of future. The data will be saved to the localStorage of the browser.
 
 
